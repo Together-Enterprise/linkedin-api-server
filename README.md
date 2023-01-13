@@ -6,7 +6,7 @@ No tokens are needed for using this API, only a working LinkedIn account.
 
 ```
 cd /folder_contains-project/linkedin-api-server
-npm install
+npm install linkedin-api-server
 ```
 
 ## Example usage
