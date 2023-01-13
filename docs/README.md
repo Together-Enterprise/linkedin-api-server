@@ -1,17 +1,14 @@
-**[linkedin-private-api](README.md)**
+**[linkedin-api-server](README.md)**
 
 > [Globals](globals.md)
 
-# NodeJS LinkedIn API
-![Build](https://github.com/eilonmore/linkedin-private-api/workflows/Build/badge.svg?branch=master)
-
-NodeJS Wrapper API for LinkedIn API, written in TypeScript.  
 No tokens are needed for using this API, only a working LinkedIn account.
 
 ## Installation
 
 ```
-npm install linkedin-private-api
+cd /to the folder contains this project
+npm install linkedin-api-server
 ```
 
 ## Example usage
