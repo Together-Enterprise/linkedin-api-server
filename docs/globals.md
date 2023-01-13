@@ -1,8 +1,8 @@
-**[linkedin-private-api](README.md)**
+**[linkedin-api-server](README.md)**
 
 > Globals
 
-# linkedin-private-api
+# linkedin-api-server
 
 ## Index
 
