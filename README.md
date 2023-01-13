@@ -1,20 +1,19 @@
-# NodeJS LinkedIn API
-![Build](https://github.com/eilonmore/linkedin-private-api/workflows/Build/badge.svg?branch=master)
+# Linkedin API Server - NodeJS
 
-NodeJS Wrapper API for LinkedIn API, written in TypeScript.  
 No tokens are needed for using this API, only a working LinkedIn account.
 
 ## Installation
 
 ```
-npm install linkedin-private-api
+cd /folder_contains-project/linkedin-api-server
+npm install
 ```
 
 ## Example usage
-Check out [the post](https://codeburst.io/how-i-nailed-a-job-with-this-nodejs-linkedin-bot-6fcada2afbe1) I've written that describes a great example of how to use this library.  
-Also, see a list of examples [here](https://github.com/eilonmore/linkedin-private-api/tree/master/examples).
+Check out [the post](https://codeburst.io/how-i-nailed-a-job-with-this-nodejs-linkedin-bot-6fcada2afbe1) This describes a great example of how to use this library.  
+Also, see a list of examples iside the project
 ```typescript
-import { Client } from 'linkedin-private-api';
+import { Client } from 'linkedin-api-server';
 
 const username = process.env.USERNAME as string;
 const password = process.env.PASSWORD as string;
